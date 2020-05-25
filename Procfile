@@ -1,0 +1,1 @@
+web: gunicorn authapp_api_and_backend.wsgi --log-file -
