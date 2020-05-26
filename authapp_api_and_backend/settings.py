@@ -140,7 +140,7 @@ DATABASES['default'].update(prod_db)
 
 
 # database:
-'''DATABASES = {
+DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': config("db_name", default="NAME"),
@@ -152,4 +152,3 @@ DATABASES['default'].update(prod_db)
 db_password = config("db_password", default="PASSWORD")
 if db_password:
     DATABASES.get('default').update({'PASSWORD': db_password})
-'''
