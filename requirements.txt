@@ -45,7 +45,7 @@ django-social-share==1.3.2
 django-storages==1.6.3
 django-templated-mail==1.1.1
 django-templatetags==1.1
-djangorestframework==3.11.0
+djangorestframework==3.11.2
 djangorestframework-simplejwt==4.3.0
 djet==0.2.2
 docutils==0.14
