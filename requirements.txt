@@ -33,7 +33,7 @@ django-bootstrap4==0.0.7
 django-cc==0.2.3
 django-countries==5.3.3
 django-crispy-forms==1.7.2
-django-debug-toolbar==1.10.1
+django-debug-toolbar==1.11.1
 django-excel-response2==2.0.8
 django-filter==1.0.4
 django-inlinecss==0.2.0
